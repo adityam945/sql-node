@@ -1,0 +1,15 @@
+{
+  "name": "sql-node",
+  "version": "1.0.0",
+  "description": "sql",
+  "main": "demo_db_connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adityam945",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
